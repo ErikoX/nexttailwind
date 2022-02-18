@@ -1,2 +1,2 @@
 # nexttailwind
-just a template im using
+some template im using
